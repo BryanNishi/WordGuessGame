@@ -1,0 +1,47 @@
+body,
+html {
+    height: 100%;
+}
+
+.bg {
+    background-image: url(../images/Banner.jpg);
+}
+
+h1 {
+    font-size: 50px;
+    font-family: 'Pirata One', cursive;
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: 'Pirata One', cursive;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Pirata One', cursive;
+}
+
+#win {
+    color: rgb(22, 124, 219);
+    background-color: black;
+}
+
+#lose {
+    color: red;
+    background-color: black;
+}
+
+.container {
+    background-image: url(../images/Hangsmans-noose.png);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron {
+    margin: 2% 0 0 0;
+}
